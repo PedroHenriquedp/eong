@@ -2,10 +2,15 @@
 
 ## Cronograma
 
-- [] 22-06-2023: Concepção
-- [] 20-07-2023: Protótipo da Interface
-- [] 21-08-2023: Protótipo Final e Apresentação
+- [ ] 2023-06-22: Concepção
+- [ ] 2023-07-20: Protótipo da Interface
+- [ ] 2023-08-21: Protótipo Final e Apresentação
 
 ## To Do
 
 ### Protótipo da Interface
+
+- [ ] Homepage com informações sobre a ONG
+- [ ] Página de login
+- [ ] Página de cadastro
+- [ ] Página de doações
