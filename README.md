@@ -2,7 +2,7 @@
 
 ## Cronograma
 
-- [ ] 2023-06-22: Concepção
+- [x] 2023-06-22: Concepção
 - [ ] 2023-07-20: Protótipo da Interface
 - [ ] 2023-08-21: Protótipo Final e Apresentação
 
