@@ -1,7 +1,7 @@
-import Hello from '~/components/Hello';
+import Index from "./pages/public/index/Index";
 
 function App() {
-  return <Hello />;
+  return <Index />;
 }
 
 export default App;
